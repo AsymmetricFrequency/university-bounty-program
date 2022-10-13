@@ -33,7 +33,7 @@ const Header = () => {
                             className="hidden font-thin !tracking-widest sm:inline"
                         >
                             {' '}
-                            Colombia HH - Bounty program{' '}
+                            Hackathon - Bounty program{' '}
                         </Text>
                     </div>
                 </div>
